@@ -1,3 +1,13 @@
+# 修复
+修复一些使用的bug
+- 测试环境
+```
+frida 12.7.22
+win10
+android 9 
+MIUI
+redmi note 5
+```
 # fridaMemoryAccessTrace
 android memory access trace utility powered by frida framework
 ## Start
